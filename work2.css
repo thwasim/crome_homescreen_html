@@ -1,0 +1,177 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-style: normal;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    
+    
+}
+
+
+.home{
+    width: 100rem;
+    height: 100rem;
+}
+
+.google-top1{
+    width: 100%;
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 20px;
+    padding: 10px 20px;
+  
+
+}
+
+.google-full{
+    width: 100%;
+    height: 90%;
+
+    display: flex;
+    justify-content: center;
+ 
+    align-items: flex-end;
+    
+}
+.google-app{
+    width: 55%;
+    height: 450px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    display: flex;
+    padding-left: 20px;
+}
+.total-class{
+    width: auto;
+    height: 10px;
+    padding: 10px;
+    float: left;
+
+  
+
+
+}
+.google-name{
+    width: 320px;
+    height: 125px;
+    size-adjust: 120px;
+     margin-left: 110px;
+     background-image: url(image/Screenshot\ 2022-03-23\ 235317.png);
+     background-size: 100%;
+
+
+
+}
+
+
+
+.search-box{
+    width: 550px;
+    height: 50px;
+    color: #0c0c0c;
+    text-transform: capitalize;
+    display: flex;  
+    
+
+}
+
+.add-apps{
+    width: 80%;
+    height: 140px;
+ 
+  
+   
+
+}
+
+.app1{
+    width: 20%;
+    height: 140px;
+    padding: 20px;
+    float: left;
+    cursor: pointer;
+}
+.app2{
+    width: 20%;
+    height: 140px;
+    padding: 20px;
+    float: left;
+    cursor: pointer;
+}
+.app3{
+    width: 20%;
+    height: 140px;
+    padding: 20px;
+    float: left;
+    cursor: pointer;
+}
+.app4{
+    width: 20%;
+    height: 140px;
+    padding: 20px;
+    float: left;
+    cursor: pointer;
+}
+.app5{
+    width: 20%;
+    height: 140px;
+    padding: 20px;
+    float: left;
+    cursor: pointer;
+}
+
+.add-apps2{
+    width: 80%;
+    height: 140px;
+
+
+}
+ .row1{
+    width:20%;
+    height: 140px; 
+
+    float: left;
+    padding: 10px;
+    cursor: pointer;
+ } 
+.row2{
+    width: 20%;
+    height: 140px;
+
+    float: left;
+    padding: 10px;  
+    cursor: pointer;
+} 
+.row3{
+    width: 20%;
+    height: 140px;
+    float: left;
+    padding: 10px;
+    cursor: pointer;
+
+}
+.row4{
+    width: 20%;
+    height: 140px;
+    float: left;
+    padding: 10px;
+    cursor: pointer;
+}
+.row5{
+    width: 20%;
+    height: 140px;
+    float: left;
+    padding: 10px;
+    cursor: pointer;
+  
+}
